@@ -39,3 +39,10 @@ During this assignment, I learned how the Prototype pattern works and the differ
 I also learned how to use Java packages and manage objects inside a list.
 
 The recommendations are stored in memory while the program is running.
+
+## Deep Copy Test
+
+I tested the cloned recommendation to make sure that
+changing it does not affect the original recommendation.
+
+![Deep Copy Test](book2.png)
